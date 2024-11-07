@@ -36,5 +36,8 @@ trigger eventPlanningStatus on CAMPX__Event__c (before insert, before update) {
  
          //update listEvent;
      }
+
+     
+
     
 }
